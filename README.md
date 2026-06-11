@@ -90,3 +90,36 @@ Limkokwing University of Creative Technology (2026), PROG 102 Assignment Brief
 United Nations (2026), Sustainable Development Goal 6: Clean Water and Sanitation
 
 World Health Organization (2026), Rural Water Infrastructure Challenges in West Africa
+
+# App Screens (HydroAlert SL)
+HydroAlert SL includes a mobile interface for supervisors and technicians to monitor and manage rural water pumps. Below are the key frames:
+
+Splash/Login  
+Entry point with branding, login via email/password or OTP.
+
+Dashboard  
+Overview of pump statistics (functional, faulty, under repair) and recent alerts.
+
+Pump Map  
+Interactive map of Sierra Leone showing pump locations and statuses.
+
+Pump Details  
+Detailed view of a specific pump: ID, location, status, sensor battery, and activity graph.
+
+Alerts  
+List of issues detected (e.g., no water flow, motor failure), categorized by status.
+
+Assign Technician  
+Supervisors assign technicians to faulty pumps, set priority, and track ETA.
+
+Work Order  
+Displays repair ticket details, technician assignment, and progress updates.
+
+Technician List  
+Directory of available technicians with quick assignment options.
+
+Technician Profile  
+Shows technician details (contact, zone, vehicle, availability).
+
+Supervisor Profile  
+Account settings, notifications, password management, and app info.
