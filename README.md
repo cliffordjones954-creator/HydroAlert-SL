@@ -123,3 +123,5 @@ Shows technician details (contact, zone, vehicle, availability).
 
 Supervisor Profile  
 Account settings, notifications, password management, and app info.
+# FIGMA LINK 
+https://www.figma.com/design/Y8MGKbhF8sQjrEbkLupvG5/hydroalert-SL?node-id=0-1&t=vjSeboQSeO4eo1bG-1
